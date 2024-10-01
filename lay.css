@@ -1,0 +1,50 @@
+h1{
+      background-color: gray;
+      text-align: center;
+    
+      padding:40px ;
+}
+h2{
+      background-color:salmon;
+      text-align: center;
+    
+      padding:40px ;
+}
+div{
+      float: left;
+      margin: 5px;
+}
+.side{
+      background-color: sandybrown;
+      width: 30%;
+      height: 300px;
+      text-align: center;
+      padding-top: 125px;
+      padding-top: 125px;
+}
+.main{
+      background-color: rgb(178, 213, 235);
+      width:35%;
+      height: 300px;
+      text-align: center;
+      padding-top: 125px;
+
+}
+.sub{
+      background-color: sandybrown;
+      width: 30%;
+      height: 300px;
+      text-align: center;
+      padding-top: 125px;
+}   
+.footer{
+      background-color: gray;
+      text-align: center;
+      padding-top: 50px;
+      height:100px;
+      width: 100%;
+
+}
+    
+    
+    

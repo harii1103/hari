@@ -1,0 +1,226 @@
+* {
+      box-sizing: border-box;
+}
+
+.h {
+      width: 5%;
+      height: 204px;
+      background-color: red;
+
+}
+
+.h,.contain,.org,.oran,.box,.lib,.redd, .li{
+
+      float: left;
+      margin: 2px;
+}
+
+.libb,.yee {
+      float: right;
+}
+
+.yee,.redd, .libb, .oran, .bl {
+      width: 30%;
+      height: 60px;
+}
+.gre,.red, .liye, .blu,.pi,.lg {
+      width: 90%;
+}
+.gray, .or, .ye,.co {
+
+      width: 100%;
+}
+
+
+
+.contain {
+      width: 41%;
+      height: 205px;
+      background-color: palevioletred;
+}
+
+.row {
+      width: 99%;
+
+      height: 98px;
+      background-color: rgb(158, 230, 69);
+      margin: 3px;
+
+}
+
+.co {
+      background-color: rgb(234, 244, 204);
+      height: 214px;
+      border: 3px solid black;
+ 
+}
+
+.org {
+      height: 205px;
+      width: 47%;
+      background-color: orange;
+
+      margin: 6px;
+      margin-top: 1px;
+      border: 3px solid black;
+}
+
+.bl {
+      height: 100px;
+
+      background-color: lightblue;
+      margin: 50px auto;
+      border: 3px solid black;
+}
+
+.li {
+      height: 50px;
+      width: 47%;
+      background-color: lightgoldenrodyellow;
+
+      margin: 3px;
+      margin-top: 15px;
+      border: 3px solid black;
+}
+
+.ye {
+   
+      height: 300px;
+      background-color: rgb(212, 194, 255);
+      border: 2px solid black;
+
+}
+
+.pi {
+   
+      height: 298px;
+      background-color: pink;
+      border: 2px solid black;
+      margin: 0% auto;
+}
+
+.bro {
+      width: 40%;
+      height: 285px;
+      background-color: rgb(148, 122, 122);
+      border: 2px solid black;
+      margin: 3.5px 4px;
+
+}
+
+.blu {
+  
+      height: 100px;
+      background-color: rgb(126, 219, 247);
+      border: 2px solid black;
+      margin: 70px auto;
+}
+
+.or {
+     
+      height: 300px;
+      background-color: orange;
+      border: 2px solid black;
+      margin: 5px;
+
+}
+
+.liye {
+
+      height: 290px;
+      background-color: rgb(235, 238, 151);
+      border: 2px solid black;
+      margin: 2.9px auto;
+}
+
+.oran {
+      height: 275px;
+      background-color: rgb(242, 152, 35);
+      border: 2px solid black;
+      margin: 5px 20px;
+
+}
+
+.red {
+      
+      height: 80px;
+      background-color: red;
+      border: 2px solid black;
+      margin: 5px 20px;
+}
+
+.gre {
+      
+      height: 170px;
+      background-color: green;
+      border: 2px solid black;
+      margin: 10px 20px;
+}
+
+.box {
+      width: 40%;
+      height: 140px;
+      background-color: rgb(244, 244, 23);
+      border: 2px solid black;
+
+      margin: 15px 15px;
+
+
+}
+
+.gray {
+
+   
+      height: 200px;
+      background-color: grey;
+      border: 2px solid black;
+      margin: 5px;
+}
+
+.lg {
+ 
+      height: 180px;
+      background-color: lightslategray;
+      border: 2px solid black;
+      margin: 8.5px auto;
+}
+
+.lib {
+
+      width: 20%;
+      height: 100px;
+      background-color: lightblue;
+      border: 2px solid black;
+      margin: 37px 20px;
+
+}
+
+.libb {
+
+      height: 100px;
+      background-color: lightblue;
+      border: 2px solid black;
+      margin: 37px 20px;
+
+
+}
+
+.redd {
+
+
+      background-color: red;
+      border: 2px solid black;
+      margin: 20px 30px;
+
+
+}
+
+.yee {
+
+
+      background-color: blueviolet;
+      border: 2px solid black;
+      margin: 20px 30px;
+
+
+}
